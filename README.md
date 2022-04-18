@@ -19,5 +19,5 @@ Click-through news app to view the full summary in the browser
 - Supports theme change
 
 <p align"center">
-<img src="screenshots/1_wOmAHDN_zKZJns9YDjtrMw.jpg" width="211" height="423" />
+<img src="screenshots/1_wOmAHDN_zKZJns9YDjtrMw.jpg" />
 </p>
